@@ -7,6 +7,9 @@ It is a theme focused on writing and dedicated to those who need a personal webs
 
 It is written using the [Simple.css {}](https://simplecss.org) framework by [Kev Quirk](https://kevq.uk) to whom we give all credit for this project.
 
+## Demo
+I use it on my personal website, so if you want a demo just visit it: https://www.francescoceliento.com
+
 ## Features of Simple.css Theme Wordpress
 * No logo
 * No sidebar and therefore no widgets
