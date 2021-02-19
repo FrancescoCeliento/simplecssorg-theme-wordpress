@@ -1,16 +1,26 @@
 <!DOCTYPE html>
 	<html <?php language_attributes(); ?>>
 		<head>
+			<title><?php bloginfo('name'); echo " - "; bloginfo('description'); ?></title>
 			<meta charset="<?php bloginfo( 'charset' ); ?>" />
 			<meta name="viewport" content="width=device-width" />
-			<meta name="title" content="<?php bloginfo('name'); ?>" />
+			<meta name="title" content="<?php if ( is_single() ) {
+													single_post_title('', true); 
+												} else {
+													bloginfo('name');
+												} ?>" />
 			<meta name="description" content="<?php if ( is_single() ) {
-														single_post_title('', true); 
+														echo get_the_excerpt(); 
 													} else {
 														bloginfo('description');
 													}
 													?>" />
 			<meta name="contact" content="<?php bloginfo('admin_email'); ?>" />
+			<meta name="og:image" content="<?php if ( is_single() ) {
+													echo get_the_post_thumbnail_url();
+												} else {
+													echo get_site_icon_url();
+												} ?>" />
 			<link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); echo " - "; bloginfo('description'); ?>" href="<?php bloginfo('rss_url'); ?>" />
 			<?php wp_head(); ?>
 		</head>
