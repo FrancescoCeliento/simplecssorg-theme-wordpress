@@ -1,3 +1,5 @@
+Read in english: https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress/blob/main/README_EN.md
+
 # Simple.css Theme Wordpress
 **Simple.css Theme Wordpress** nasce dall'esigenza di creare blog e siti leggeri e veloci e si offre per permettere a chiunque voglia di creare blog con pagine di dimensioni, non compresse, inferiori ai 100KB.
 
