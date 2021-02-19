@@ -1,1 +1,0 @@
-# simplecssorg-theme-wordpress
