@@ -13,6 +13,8 @@ It is written using the [Simple.css {}](https://simplecss.org) framework by [Kev
 * No scripts
 * Only one column
 * Only one menu in the topbar
+* Responsive
+* Auto dark mode
 
 ## Incredibly light, incredibly fast
 The fact that over the years we have more and more powerful computers and faster and faster connections does not mean that the page of a website should weigh 5MB. The main purpose that a website should have is to inform, and if we consider that a large (huge) ebook does not exceed an average of 2.5 MB it makes us understand how absurd it is to have to download 5MB of data from the network to read a single article.
