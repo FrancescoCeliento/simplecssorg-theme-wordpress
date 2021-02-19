@@ -7,12 +7,17 @@ Si tratta di un tema focalizzato sulla scrittura e dedicato a chi ha bisogno di 
 
 È scritto usando il framework [Simple.css {}](https://simplecss.org) di [Kev Quirk](https://kevq.uk) alla quale diamo tutti i meriti di questo progetto.
 
+## Demo
+Lo utilizzo sul mio sito personale, quindi se vuoi una demo basta che lo visiti: https://www.francescoceliento.com
+
 ## Caratteristiche di Simple.css Theme Wordpress
 * Nessun logo
 * Nessuna sidebar e quindi nessun widget
 * Nessuno script
 * Un'unica colonna
 * Un solo menù nella topbar
+* Responsive
+* Modalità scura automatica
 
 ## Incredibilmente leggero, incredibilmente veloce
 Il fatto che con il passare degli anni abbiamo a disposizione computer sempre più potenti e connessioni sempre più veloci non significa che la pagina di un sito web debba arrivare a pesare anche 5MB. Lo scopo principale che dovrebbe avere un sito web è informare, e se consideriamo che un ebook di grandi (enormi) dimensioni non supera in media i 2.5 MB ci fa capire quanto sia assurdo dover scaricare dalla rete 5MB di dati per leggere un singolo articolo.
