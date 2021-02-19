@@ -7,6 +7,9 @@ Si tratta di un tema focalizzato sulla scrittura e dedicato a chi ha bisogno di 
 
 È scritto usando il framework [Simple.css {}](https://simplecss.org) di [Kev Quirk](https://kevq.uk) alla quale diamo tutti i meriti di questo progetto.
 
+## Demo
+Lo utilizzo sul mio sito personale, quindi se vuoi una demo basta che lo visiti: https://www.francescoceliento.com
+
 ## Caratteristiche di Simple.css Theme Wordpress
 * Nessun logo
 * Nessuna sidebar e quindi nessun widget
