@@ -3,6 +3,7 @@
 	<?php if ( have_posts() ) : ?>
 		<?php get_search_form(); ?>	
 		<h1><?php printf( esc_html__( 'Search Results for: %s', 'generic' ), get_search_query() ); ?></h1>
+		<hr>
 		<?php while ( have_posts() ) : the_post(); ?>
 		<?php get_template_part( 'entry' ); ?>
 		<?php endwhile; ?>

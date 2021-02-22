@@ -1,7 +1,8 @@
 <?php get_header(); ?>
 <main>
-	<h1>Tag: <?php single_term_title(); ?></h1>
+	<h1><?php single_term_title(); ?></h1>
 	<p><?php if ( '' != the_archive_description() ) { echo esc_html( the_archive_description() ); } ?></p>
+	<hr>
 			<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 				<?php get_template_part( 'entry' ); ?>
 									<?php endwhile; endif; ?>
