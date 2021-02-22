@@ -34,3 +34,6 @@ Lo scopo di **Simple.css Theme Wordpress** è proprio quello di permettere agli 
 * Per donazioni a Francesco: [PayPal](https://paypal.me/francescoceliento), Bitcoin (35PDTf9NNjLPA2dos3Sbg7cjoWYXnAEjpB)
 * Framework: [Simple.css {}](https://simplecss.org) di [Kev Quirk](https://kevq.uk)
 * [Per donazioni a Kev](https://kevq.uk/buy-me-a-coffee)
+
+# Aggiornamenti
+Gli aggiornamenti sullo sviluppo e tutte le notizie saranno pubblicate all'indirizzo https://www.francescoceliento.com/tag/simplecssorg-theme-wordpress
