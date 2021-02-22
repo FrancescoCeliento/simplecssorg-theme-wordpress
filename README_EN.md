@@ -35,5 +35,5 @@ The purpose of **Simple.css Theme Wordpress** is to allow authors to write a blo
 * Framework: [Simple.css {}](https://simplecss.org) by [Kev Quirk](https://kevq.uk)
 * [For donations to Kev](https://kevq.uk/buy-me-a-coffee)
 
-#Updates
+# Updates
 Development updates and all news will be published at https://www.francescoceliento.com/tag/simplecssorg-theme-wordpress (in italian)
