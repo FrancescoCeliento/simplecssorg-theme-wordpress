@@ -2,7 +2,7 @@
 <main>
 		<?php the_post(); ?>
 		<h1>Articoli di <?php the_author_link(); ?></h1>
-		<p><?php if ( '' != get_the_author_meta( 'user_description' ) ) { echo esc_html( get_the_author_meta( 'user_description' ) ); } ?></p>
+		<?php if ( '' != get_the_author_meta( 'user_description' ) ) { echo esc_html( get_the_author_meta( 'user_description' ) ); } ?>
 		<hr>
 		<?php rewind_posts(); ?>
 		<?php while ( have_posts() ) : the_post(); ?>

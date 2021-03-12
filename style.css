@@ -399,7 +399,7 @@ blockquote {
 }
 
 cite {
-  font-size: 0.9rem;
+  /*font-size: 0.9rem;*/
   color: var(--text-light);
   font-style: normal;
 }
@@ -464,9 +464,6 @@ div#simplecss-search-form {
 	margin: unset;
 }
 
-/*.search-field, .search-submit {
-    width: unset;
-    margin-left: .5rem;
-    margin-right: .5rem;
+#comments ul {
+    list-style: none;
 }
-*/
