@@ -1,7 +1,7 @@
 <?php if ( is_singular() ) { 
 	echo '<h1>';
 	} else {
-	echo '<p><a href="'.get_permalink().'" title="'.get_the_title().'">';
+	echo '<p><b><a href="'.get_permalink().'" title="'.get_the_title().'">';
 	}?>
 
 <?php the_title(); ?>
@@ -9,7 +9,7 @@
 <?php if ( is_singular() ) { 
 	echo '</h1>';
 	} else {
-	echo '</a></p>';
+	echo '</a></b></p>';
 	}?>
 
 
