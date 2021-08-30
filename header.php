@@ -26,7 +26,7 @@
 		</head>
 		<body>
 			<header>
-				<h1><?php echo get_bloginfo( 'name' ); ?></h1>
+				<h1><a href="<?php echo get_home_url(); ?>"><?php echo get_bloginfo( 'name' ); ?></a></h1>
 				<p><?php bloginfo( 'description' ); ?></p>
 				<?php get_search_form(); ?>
 				<?php $menuLocations = get_nav_menu_locations();

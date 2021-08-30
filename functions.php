@@ -10,4 +10,14 @@ add_action( 'wp_enqueue_scripts', 'simplecss_load_scripts' );
 function simplecss_load_scripts() {
 	wp_enqueue_style( 'simplecss-style', get_stylesheet_uri() );
 }
+
+
+add_theme_support( 'custom-logo', array(
+			'height'      => 80,
+			'width'       => 240,
+			'flex-width'  => true,
+			'flex-height' => true,
+			) );
+
+add_theme_support( 'post-thumbnails' );
 ?>

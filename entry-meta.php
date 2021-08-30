@@ -1,1 +1,1 @@
-<?php echo "Scritto da "; the_author_posts_link(); echo " il "; the_time('j F, Y'); ?>
+<?php echo "Posted by "; the_author_posts_link(); echo ", "; the_time('j F Y'); ?>
