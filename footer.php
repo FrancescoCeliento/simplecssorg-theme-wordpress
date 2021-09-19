@@ -1,6 +1,5 @@
 <footer >
-	<p><a href="https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress" target="_blank">SimpleCSS Theme Wordpress v 0.4.3</a> is created by <a href="https://www.francescoceliento.com" target="_blank">Francesco Celiento</a> and is based on <a href="https://simplecss.org/" target="_blank"><b>Simple.css {}</b></a> (which is created by <a href="https://kevq.uk" target="_blank">Kev Quirk</a>)<br>
-	<a href="https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress/archive/main.zip">Download this theme</a></p>
+	<p><b>SimpleCSS Theme Wordpress</b> 0.4.4 (<a href="https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress" target="_blank">source</a> - <a href="https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress/archive/main.zip">download</a>)</p>
 	
 </footer>
 

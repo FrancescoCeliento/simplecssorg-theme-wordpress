@@ -1,6 +1,6 @@
 Leggi in italiano: https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress/blob/main/README.md
 
-# Simple.css Theme Wordpress version 0.4.3
+# Simple.css Theme Wordpress version 0.4.4
 **Simple.css Theme Wordpress** was born from the need to create blogs and sites light and fast and is offered to allow anyone who wants to create blogs with pages of size, not compressed, less than 100KB.
 
 It is a theme focused on writing and dedicated to those who need a personal website for any purpose, whether it is a work resume, portfolio, personal. It is not suitable for magazines or ecommerce.
