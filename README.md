@@ -29,6 +29,12 @@ Lo scopo di **Simple.css Theme Wordpress** è proprio quello di permettere agli 
 * Caricare il pacchetto nella posizione ``wp-content/themes/`` del nostro sito Wordpress
 * Attivare il tema nelle impostazioni di Wordpress alla posizione **Dashboard > Aspetto > Temi**
 
+# Da fare
+* Impostazione secondo menù nel footer
+* Possibilità di rimuovere i link al download del tema da github nel footer
+* Inserire colonna per widget
+* Inserire box autore
+
 # Riferimenti
 * Autore: [Francesco Celiento](https://www.francescoceliento.com), fondatore e scrittore di [Dummy-X](https://www.selectallfromdual)
 * Per donazioni a Francesco: [PayPal](https://paypal.me/francescoceliento), Bitcoin (35PDTf9NNjLPA2dos3Sbg7cjoWYXnAEjpB)

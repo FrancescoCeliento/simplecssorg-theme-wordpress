@@ -29,6 +29,12 @@ The purpose of **Simple.css Theme Wordpress** is to allow authors to write a blo
 * Upload the package to the location ``wp-content/themes/`` of our Wordpress site.
 * Activate the theme in the Wordpress settings at the location **Dashboard > Appearance > Themes**.
 
+# To-Do
+* Setting a second menu in the footer
+* Option to remove links to the theme download from github in the footer
+* Insert column for widget
+* Insert author box
+
 # References
 * Author: [Francesco Celiento](https://www.francescoceliento.com), founder and writer of [Dummy-X](https://www.selectallfromdual)
 * For donations to Francesco: [PayPal](https://paypal.me/francescoceliento), Bitcoin (35PDTf9NNjLPA2dos3Sbg7cjoWYXnAEjpB)
