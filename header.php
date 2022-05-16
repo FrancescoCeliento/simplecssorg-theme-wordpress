@@ -54,7 +54,7 @@ Author URI: https://www.francescoceliento.com
 			<link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); echo " - "; bloginfo('description'); ?>" href="<?php bloginfo('rss_url'); ?>" />
 			<?php wp_head(); ?>
 		</head>
-		<body>
+		<body <?php body_class(); ?>>
 			<header>
 				<h1><a href="<?php echo get_home_url(); ?>"><?php echo get_bloginfo( 'name' ); ?></a></h1>
 				<p><?php bloginfo( 'description' ); ?></p>
