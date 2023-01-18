@@ -54,11 +54,8 @@ Author URI: https://www.francescoceliento.com
 			<link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); echo " - "; bloginfo('description'); ?>" href="<?php bloginfo('rss_url'); ?>" />
 			<?php wp_head(); ?>
 		</head>
-		<body <?php body_class(); ?>>
+		<body>
 			<header>
-				<h1><a href="<?php echo get_home_url(); ?>"><?php echo get_bloginfo( 'name' ); ?></a></h1>
-				<p><?php bloginfo( 'description' ); ?></p>
-				<?php get_search_form(); ?>
 				<?php $menuLocations = get_nav_menu_locations();
 						$menuID = $menuLocations['main-menu'];
 						if ($menuID > 0) {
@@ -71,4 +68,6 @@ Author URI: https://www.francescoceliento.com
 					?>
 				</nav>
 				<?php } ?>
+				<h1><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+				<p><?php bloginfo( 'description' ); ?></p>
 			</header>
