@@ -14,7 +14,7 @@ Si tratta di un tema focalizzato sulla scrittura e dedicato a chi ha bisogno di 
 
 Lo utilizzo sul mio sito personale, quindi se vuoi una demo basta che lo visiti: https://www.francescoceliento.com/blog
 
-<img src="https://raw.githubusercontent.com/FrancescoCeliento/simplecssorg-theme-wordpress/main/schermate/schermata.png" alt="schermata.png" width="440" height="483"> <img src="https://raw.githubusercontent.com/FrancescoCeliento/simplecssorg-theme-wordpress/main/schermate/schermata-dark.png" alt="schermata-dark.png" width="440" height="483">
+<img src="https://raw.githubusercontent.com/FrancescoCeliento/simplecssorg-theme-wordpress/main/schermate/schermata.png" alt="schermata.png" width="410" height="449" class="jop-noMdConv"> <img src="https://raw.githubusercontent.com/FrancescoCeliento/simplecssorg-theme-wordpress/main/schermate/schermata-dark.png" alt="schermata-dark.png" width="410" height="449" class="jop-noMdConv">
 
 ## Caratteristiche di Simple.css Theme Wordpress
 
