@@ -22,7 +22,7 @@ Lo utilizzo sul mio sito personale, quindi se vuoi una demo basta che lo visiti:
 - Nessuna sidebar e quindi nessun widget
 - Nessuno script
 - Un’unica colonna
-- Un solo menù nella topbar
+- Due menù, uno nella topbar e uno nel footer
 - Responsive
 - Modalità scura automatica
 
