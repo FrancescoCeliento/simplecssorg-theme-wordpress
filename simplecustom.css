@@ -1,11 +1,8 @@
 a {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 .nav-links {
-  display: inline-flex;
-}
-
-.nav-links div {
-  margin-right: 1.5em;
+    display: flex;
+    justify-content: space-between;
 }

@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.4.8
+
+- Corretto il posizionamento dei divisori &lt;hr&gt;
+- Corretto il posizionamento dei tag e delle categorie nel single post
+- Rettificato posizionamento nei nav sia dell'index che del singolo articolo
+
 ## 0.4.7
 
 - Introduzione del changelog

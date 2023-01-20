@@ -16,7 +16,7 @@
 			?>
 	</p>
 	
-	<p><b>SimpleCSS Theme Wordpress</b> 0.4.7 (<a href="https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress" target="_blank">source</a> - <a href="https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress/archive/main.zip">download</a>)</p>
+	<p><b>SimpleCSS Theme Wordpress</b> 0.4.8 (<a href="https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress" target="_blank">source</a> - <a href="https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress/archive/main.zip">download</a>)</p>
 	
 </footer>
 

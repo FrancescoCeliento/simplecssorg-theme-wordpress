@@ -4,6 +4,6 @@
 	<?php get_template_part( 'entry' ); ?>
 	<?php if ( comments_open() && ! post_password_required() ) { comments_template( '', true ); } ?>
 	<?php endwhile; endif; ?>
-	<p><?php get_template_part( 'nav', 'below-single' ); ?></p>
+	<?php get_template_part( 'nav', 'below-single' ); ?>
 </main>
 <?php get_footer(); ?>

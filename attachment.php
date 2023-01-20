@@ -10,7 +10,7 @@
 				<?php echo wp_kses_post( get_the_title( $post->post_parent ) ); ?>
 	</a>
 	<p><?php previous_image_link( false, '&lsaquo;' ); ?></p>
-	<p>next_image_link( false, '&rsaquo;' ); ?></p>
+	<p><?php next_image_link( false, '&rsaquo;' ); ?></p>
 	
 	<?php if ( wp_attachment_is_image( $post->ID ) ) : $att_image = wp_get_attachment_image_src( $post->ID, 'full' ); ?>
 				<p><a href="<?php echo esc_url( wp_get_attachment_url( $post->ID ) ); ?>"
