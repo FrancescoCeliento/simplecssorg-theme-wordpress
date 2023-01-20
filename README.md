@@ -66,4 +66,4 @@ e una pagina dedicata alla nuvola dei tag
 - Autore: [Francesco Celiento](https://www.francescoceliento.com), fondatore e scrittore di [Dummy-X](https://www.selectallfromdual)
 - Per donazioni a Francesco: [PayPal](https://paypal.me/francescoceliento), [Ko-Fi](https://ko-fi.com/francescoceliento)
 - Framework: [Simple.css {}](https://simplecss.org) di [Kev Quirk](https://kevq.uk)
-- [Per donazioni a Kev](https://kevq.uk/buy-me-a-coffee)
+- [Per donazioni a Kev Quirk](https://ko-fi.com/kevquirk)
