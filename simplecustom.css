@@ -1,3 +1,19 @@
+/* INIZIO OVERRIDE simple.css */
+body {
+  grid-template-columns: 1fr min(70rem, 90%) 1fr;
+}
+/* FINE OVERRIDE simple.css */
+
+/* INIZIO OVERRIDE css wordpress */
+.wp-block-button__link {
+    color: #fff !important;
+}
+.widget {
+  margin-bottom: 1em;
+}
+/* FINE OVERRIDE css wordpress */
+
+
 a {
     text-decoration: none;
 }
@@ -6,3 +22,87 @@ a {
     display: flex;
     justify-content: space-between;
 }
+
+
+/* Format headers */
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  margin-top: 3rem;
+}
+
+h3 {
+  font-size: 1.45rem;
+  margin-top: 3rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+h6 {
+  font-size: 0.85rem;
+}
+
+/* Reduce header size on mobile */
+@media only screen and (max-width: 720px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+
+  h3 {
+    font-size: 1.45rem;
+  }
+
+  h4 {
+    font-size: 1.25rem;
+  }
+}
+
+
+/* INIZIO CODICE DI TEST */
+.container {
+    display: flex;
+    flex-direction: row; /* Sidebar a sinistra e contenuto a destra */
+}
+
+.sidebar {
+    width: 300px; /* Imposta la larghezza desiderata */
+    max-width: 300px;
+    float: left; /* Posiziona la sidebar a sinistra */
+    margin-right: 20px; /* Spazio tra la sidebar e il contenuto principale */
+    margin-top: 45px;
+}
+
+.content {
+      flex: 1; /* Il contenuto occupa il resto dello spazio */
+    }
+
+main {
+    flex: 1; /* Il contenuto occupa il resto dello spazio */
+}
+
+/* Media query per dispositivi mobili */
+@media (max-width: 769px) {
+    .container {
+        flex-direction: column; /* Cambia la direzione in colonna per i dispositivi mobili */
+    }
+
+    .sidebar {
+        order: -1; /* Mostra la sidebar prima del contenuto */
+        width: 100%; /* Larghezza della sidebar al 100% */
+        margin: 10px auto 0px auto; /* Centra la sidebar */
+    }
+}
+/* FINE CODICE DI TEST */
